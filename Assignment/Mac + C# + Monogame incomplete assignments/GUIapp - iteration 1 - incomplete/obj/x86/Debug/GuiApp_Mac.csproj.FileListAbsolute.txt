@@ -1,0 +1,46 @@
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x64/libopenal.so.1
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x64/soft_oal.dll
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x64/SDL2.dll
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x86/libopenal.so.1
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x86/soft_oal.dll
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/x86/SDL2.dll
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/MonoGame.Framework.dll.config
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/libopenal.1.dylib
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/libSDL2-2.0.0.dylib
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/Content/Arial.xnb
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/Content/white_pixel.xnb
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/Content/white_pixel.png
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/GuiApp_Mac.exe
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/GuiApp_Mac.pdb
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/MonoGame.Framework.dll
+/Users/cmi/Projects/Job/GuiApp_Mac/bin/Debug/MonoGame.Framework.xml
+/Users/cmi/Projects/Job/GuiApp_Mac/obj/x86/Debug/GuiApp_Mac.csproj.CoreCompileInputs.cache
+/Users/cmi/Projects/Job/GuiApp_Mac/obj/x86/Debug/GuiApp_Mac.exe
+/Users/cmi/Projects/Job/GuiApp_Mac/obj/x86/Debug/GuiApp_Mac.pdb
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/obj/x86/Debug/GuiApp_Mac.csproj.CoreCompileInputs.cache
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x64/libopenal.so.1
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x64/soft_oal.dll
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x64/SDL2.dll
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x86/libopenal.so.1
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x86/soft_oal.dll
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/x86/SDL2.dll
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/libopenal.1.dylib
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/libSDL2-2.0.0.dylib
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/Content/Arial.xnb
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/MonoGame.Framework.dll.config
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/Content/white_pixel.xnb
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/Content/white_pixel.png
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/GuiApp_Mac.exe
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/GuiApp_Mac.pdb
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/MonoGame.Framework.dll
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/bin/Debug/MonoGame.Framework.xml
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/obj/x86/Debug/GuiApp_Mac.exe
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 4 - complete/obj/x86/Debug/GuiApp_Mac.pdb
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 1 - TODO/obj/x86/Debug/GuiApp_Mac.csprojResolveAssemblyReference.cache
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 1 - TODO/obj/x86/Debug/GuiApp_Mac.csproj.CoreCompileInputs.cache
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 1 - TODO/obj/x86/Debug/GuiApp_Mac.exe
+/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 1 - TODO/obj/x86/Debug/GuiApp_Mac.pdb
