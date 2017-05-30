@@ -1,0 +1,175 @@
+﻿using System;
+
+namespace Program
+{
+    /*
+        Iterator decorator example
+    */
+
+    // The common interface I
+    interface Iterator
+    {
+        int GetNext();
+    }
+
+    // A concrete iterator C implementing I
+    class Naturals : Iterator
+    {
+        private int current = -1;
+
+        public int GetNext()
+        {
+            current++;
+            return current;
+        }
+    }
+
+    // The generic abstract decorator D for I
+    abstract class IteratorDecorator : Iterator
+    {
+        protected Iterator iterator;
+
+        public IteratorDecorator(Iterator iterator)
+        {
+            this.iterator = iterator;
+        }
+
+        abstract public int GetNext();
+    }
+
+    // The concrete decorators CD
+    class Evens : IteratorDecorator
+    {
+        public Evens(Iterator iterator) : base(iterator)
+        {
+
+        }
+
+        override public int GetNext()
+        {
+            int result = base.iterator.GetNext();
+            if(result % 2 == 0)
+            {
+                return result;
+            }
+            else
+            {
+                return GetNext();
+            }
+        }
+    }
+
+    class Offset : IteratorDecorator
+    {
+        private int offset;
+
+        public Offset(Iterator iterator, int offset) : base(iterator)
+        {
+            this.offset = offset;
+        }
+
+        override public int GetNext()
+        {
+            return base.iterator.GetNext() + this.offset;
+        }
+    }
+
+    /*
+        Monster decorator example
+    */
+
+    // The common interface I
+    interface IMonster
+    {
+        void Greet();
+    }
+
+    // The concrete monsters C implementing I
+    class Orc : IMonster
+    {
+        public void Greet()
+        {
+            Console.WriteLine("Hi I'm the orc");
+        }
+    }
+
+    class Troll : IMonster
+    {
+        public void Greet()
+        {
+            Console.WriteLine("Hi I'm the troll");
+        }
+    }
+
+    // The generic abstract decorator D for I
+    abstract class MonsterDecorator : IMonster
+    {
+        protected IMonster monster;
+
+        public MonsterDecorator(IMonster monster)
+        {
+            this.monster = monster;
+        }
+
+        abstract public void Greet();
+    }
+
+    // The concrete decorators CD
+    class WackyMonster : MonsterDecorator
+    {
+        public WackyMonster(IMonster monster) : base(monster)
+        {
+
+        }
+
+        override public void Greet()
+        {
+            base.monster.Greet();
+            Console.WriteLine("And I'm SUPER wacky btw :) xD");
+        }
+    }
+
+    class StrongMonster : MonsterDecorator
+    {
+        public StrongMonster(IMonster monster) : base(monster)
+        {
+
+        }
+
+        override public void Greet()
+        {
+            base.monster.Greet();
+            Console.WriteLine("also I can lift the moon !!!");
+        }
+    }
+
+    class Program
+    {
+        static void Main()
+        {
+            /*
+                Iterator decorator example
+            */
+            Iterator naturals = new Naturals();
+            Iterator evens = new Evens(naturals);
+            Iterator offset = new Offset(evens, 10);
+
+            Iterator naturalsEvensOffset =
+                new Offset(new Evens(new Naturals()), 10);
+
+            for(int i = 0; i < 5; i++)
+            {
+                Console.Write("{0}, ", offset.GetNext());
+            }
+
+            /*
+                Monster decorator example
+            */
+            IMonster orc = new Orc();
+            IMonster troll = new Troll();
+
+            IMonster wackyStrongOrc = new StrongMonster(new WackyMonster(troll));
+            wackyStrongOrc.Greet();
+        }
+    }
+}
