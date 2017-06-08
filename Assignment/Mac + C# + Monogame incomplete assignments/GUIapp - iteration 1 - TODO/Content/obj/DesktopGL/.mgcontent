@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Profile>Reach</Profile>
-  <Platform>DesktopGL</Platform>
-  <Config />
-  <SourceFiles>
-    <File>/Users/cmi/Projects/Job/Exam-and-practicum-solutions-for-teachers/INFDEV02-4 and INFSEN01-2 assignment/2016-2017/Mac/GUIapp - iteration 1 - TODO/Content/white_pixel.png</File>
-  </SourceFiles>
-</SourceFileCollection>
