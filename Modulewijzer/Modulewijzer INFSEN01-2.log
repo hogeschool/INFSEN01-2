@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  9 MAY 2017 12:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.5.8)  20 JUN 2017 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1417,7 +1417,7 @@ LaTeX Info: Redefining \nameref on input line 106.
 ABD: EveryShipout initializing macros
 \c@lstlisting=\count187
  (./Voorblad.tex)
-<logo.png, id=63, 74.679pt x 74.679pt>
+<logo.png, id=67, 74.679pt x 74.679pt>
 File: logo.png Graphic file (type png)
  <use logo.png>
 Package pdftex.def Info: logo.png used on input line 114.
@@ -1438,12 +1438,12 @@ Package Fancyhdr Warning: \headheight is too small (36.0pt):
 
  (./Modulebeschrijving.tex
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/cmr/bx/n/10 Prerequisite knowl-
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 55--55
+Underfull \hbox (badness 1924) in paragraph at lines 56--56
 []|\OT1/cmr/bx/n/10 Connected to com-pe-
  []
 
@@ -1580,7 +1580,7 @@ Package Fancyhdr Warning: \headheight is too small (36.0pt):
 [5
 
 
-] <decorator_uml.jpg, id=221, 240.9pt x 190.91325pt>
+] <decorator_uml.jpg, id=223, 240.9pt x 190.91325pt>
 File: decorator_uml.jpg Graphic file (type jpg)
  <use decorator_uml.jpg>
 Package pdftex.def Info: decorator_uml.jpg used on input line 93.
@@ -1644,25 +1644,22 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `"Modulewijzer INFSEN01-2".out' has not chang
 ed.
-(rerunfilecheck)             Checksum: 5FC9C74B1B088174DC264C332265949C;1025.
+(rerunfilecheck)             Checksum: 69EDEBB276FE8FFAAE8DF3EF00AA0FEF;1109.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
- 25541 strings out of 493014
- 443108 string characters out of 6133352
- 731639 words of memory out of 5000000
- 28411 multiletter control sequences out of 15000+600000
+ 25572 strings out of 493014
+ 443645 string characters out of 6133352
+ 732178 words of memory out of 5000000
+ 28440 multiletter control sequences out of 15000+600000
  7497 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,16n,69p,1953b,1918s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{glo:type} has been referenced but does not exist,
- replaced by a fixed one
+pdfTeX warning (dest): name{glo:lo} has been referenced but does not exist, r
+eplaced by a fixed one
 
 pdfTeX warning (dest): name{glo:abs} has been referenced but does not exist, re
 placed by a fixed one
-
-pdfTeX warning (dest): name{glo:lo} has been referenced but does not exist, rep
-laced by a fixed one
 
 pdfTeX warning (dest): name{glo:exam} has been referenced but does not exist, r
 eplaced by a fixed one
@@ -1688,6 +1685,9 @@ pdfTeX warning (dest): name{glo:impbeh} has been referenced but does not exist,
 pdfTeX warning (dest): name{glo:undbeh} has been referenced but does not exist,
  replaced by a fixed one
 
+pdfTeX warning (dest): name{glo:typvar} has been referenced but does not exist,
+ replaced by a fixed one
+
 pdfTeX warning (dest): name{glo:assignment} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1706,10 +1706,10 @@ ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on "Modulewijzer INFSEN01-2.pdf" (9 pages, 326410 bytes).
+Output written on "Modulewijzer INFSEN01-2.pdf" (9 pages, 325017 bytes).
 PDF statistics:
- 325 PDF objects out of 1000 (max. 8388607)
- 276 compressed objects within 3 object streams
- 103 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 328 PDF objects out of 1000 (max. 8388607)
+ 277 compressed objects within 3 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
